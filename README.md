@@ -116,4 +116,6 @@ fix: correct Sunday boundary condition in streak reset logic
 
 See the project brief for full submission requirements.
 
-![Commit Git Log](git log.png)
+## Git Log Image
+<img width="1158" height="228" alt="image" src="https://github.com/user-attachments/assets/9ae1fb12-f257-4682-ae85-2dcb420a969f" />
+
